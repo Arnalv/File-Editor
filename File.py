@@ -1,5 +1,4 @@
 stay = True
-is_action_first = "First"
 action = input("First Action:")
 
 def handle(action = action, stay = stay):
